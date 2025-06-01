@@ -40,7 +40,7 @@ This web page is part of a larger portal that connects students to various clubs
 1. Clone the repository:
 
    
-   git clone https://github.com/your-username/college-club-portal.git
+   git clone https://github.com/CHETHAN-K-96/SCM-Project-Chethan
 
 
 ## 💻 Technology Stack
@@ -54,7 +54,9 @@ JavaScript – Page interactions and dynamic behavior
 ## ✍️ Developed By
 
 Chethan K
-Semester 2, B.Tech CSE
+
+Semester 2, B.Tech CSE 
+
 Part of the College Club Portal team project
 
 ## 🙏 Acknowledgements
